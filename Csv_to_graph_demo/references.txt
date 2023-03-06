@@ -1,3 +1,4 @@
 this code is taken from youtube channel https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z
 
 and collab book https://colab.research.google.com/drive/1_eR7DXBF3V4EwH946dDPOxeclDBeKNMD?usp=sharing
+it contains of 3 types of graph homogenious heterogenious and tablular
